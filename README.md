@@ -6,7 +6,8 @@ Springboot、SpringCloud、nacos、nginx、MySQL、Redis、seata、RabbitMQ、xx
 天机学堂目前是一个B2C类型的教育网站，因此分为两个端：
 后台管理端
 用户端（PC网站） 整体架构如下： 
-<img width="1280" height="723" alt="68747470733a2f2f73322e6c6f6c692e6e65742f323032332f31322f30372f526a7450754f71395749774a664c4b2e706e67" src="https://github.com/user-attachments/assets/9d37552c-fdd6-4abd-910d-3acdc4b586f1" />
+<img width="1280" height="723" alt="68747470733a2f2f73322e6c6f6c692e6e65742f323032332f31322f30372f526a7450754f71395749774a664c4b2e706e67" src="https://github.com/user-attachments/assets/03f60c27-9bf1-4e4c-bf2c-361a51348fe7" />
+
 # 功能演示
 天机学堂分为两部分：
 学生端：其核心业务主体就是学员，所有业务围绕着学员的展开
